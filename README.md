@@ -1,16 +1,16 @@
-### Hi there 👋
+## Greeting :wave:
+My name is Aragami1408. What do you expect to know more from a weeb?
 
-<!--
-**Aragami1408/Aragami1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sumthing about myself
+- Nationality: :australia: x :vietnam:
+- Occupation: Just an average high school student, sadly I'm not a typical 異世界 protagonist
+- Future Occupation: full-stack developer (🌐 and 📱)
+- Hobby: Speedrunning, Programming, Video Editing, Math Problem Solving, Anime/Manga Crawling.
+## What about my coding career?
+1. Tools
+- Laptop: Dell Latitude 7390
+- IDE/Text Editor: IntelliJ IDEA / VSCode
+2. Languages / Techs
+- Java (Spring Boot, Gradle, ...)
+- Python (Django)
+- ~~Golang~~
