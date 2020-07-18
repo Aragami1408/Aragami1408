@@ -3,7 +3,7 @@ My name is Aragami1408. What do you expect to know more from a weeb?
 
 ## Sumthing about myself
 - Nationality: :australia: x :vietnam:
-- Occupation: Just an average high school student, sadly I'm not a typical 異世界 protagonist
+- Occupation: Just ~~an average~~ a pathetic high school student, sadly I'm not a typical 異世界 protagonist
 - Future Occupation: full-stack developer (🌐 and 📱)
 - Hobby: Speedrunning, Programming, Video Editing, Math Problem Solving, Anime/Manga Crawling.
 
