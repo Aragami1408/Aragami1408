@@ -9,15 +9,17 @@ My name is Aragami1408. What do you expect to know more from a weeb?
 
 ## Share me all of your knowledge
 - Full stack development:
-  - Frontend: Angular, React, Jquery, Semantic UI
-  - Backend: Java, Spring Framework, Postgres, Redis
-  - Devops: Jenkins, Docker, Kubernetes, Github, Ansible, .etc
-- Math (All of these below are just in the basic condition, me not so good at math, I just have a big passion on them): 
+  - Frontend: Angular, React, Jquery, Semantic UI, Bootstrap
+  - Backend: Java(Spring Framework) Python(Django), Golang(Fiber and Gin)
+  - Devops: Jenkins, Docker, Kubernetes, Github, Ansible, Postgres, Redis, RethinkDB, .etc
+  - Mobile: Basic Android Development
+- Math (All of these below are just in the basic condition, actually not so good at math, I just have a big passion on them): 
   - Trigonometry
   - Calculus
   - Linear Algebra
   - Discrete Mathematics
-- I don't know what category else should I share about.
+- Recommended books :books::
+  - 
 
 ## How can I contact with you
 Several ways you can:
