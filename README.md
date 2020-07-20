@@ -18,8 +18,12 @@ My name is Aragami1408. What do you expect to know more from a weeb?
   - Calculus
   - Linear Algebra
   - Discrete Mathematics
-- Recommended books :books::
-  - 
+- Recommended books for general programming :books::
+  - [Code Complete](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
+  - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+  - [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
+  - [HTML & CSS: Design and Build Web Sites](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
+  - Suggest me more!
 
 ## How can I contact with you
 Several ways you can:
