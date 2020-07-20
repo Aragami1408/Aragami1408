@@ -3,21 +3,22 @@ My name is Aragami1408. What do you expect to know more from a weeb?
 
 ## Sumthing about myself
 - Nationality: :australia: x :vietnam:
-- Occupation: Just ~~an average~~ a pathetic high school student, sadly I'm not a typical 異世界 protagonist
+- Location: 異世界
+- Occupation: Just ~~an average~~ a pathetic high school student, ~~sadly~~ thus I'm not a typical 異世界 protagonist
 - Future Occupation: full-stack developer (🌐 and 📱)
-- Hobby: Speedrunning, Programming, Video Editing, Math Problem Solving, Anime/Manga Crawling.
+- Spare-time activites: Speedrunning :medal_sports:, Programming :computer:, Gaming :video_game:, Anime/Manga Crawling :blue_book:.
 
-## Share me all of your knowledge
+## Bragging section
 - Full stack development:
   - Frontend: Angular, React, Jquery, Semantic UI, Bootstrap
-  - Backend: Java(Spring Framework) Python(Django), Golang(Fiber and Gin)
+  - Backend: __Java__(Spring Framework) __Python__(Django), __Golang__(Fiber and Gin)
   - Devops: Jenkins, Docker, Kubernetes, Github, Ansible, Postgres, Redis, RethinkDB, .etc
   - Mobile: Basic Android Development
-- Math (All of these below are just in the basic condition, actually not so good at math, I just have a big passion on them): 
-  - Trigonometry
-  - Calculus
-  - Linear Algebra
-  - Discrete Mathematics
+- Favorite math branches: 
+  - [Trigonometry](https://www.khanacademy.org/math/trigonometry)
+  - [Single Term Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+  - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+  - [Discrete Mathematics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 - Recommended books for general programming :books::
   - [Code Complete](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
   - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
