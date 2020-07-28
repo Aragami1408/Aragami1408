@@ -1,19 +1,19 @@
 ## Greeting :wave:
-My name is Aragami1408. What do you expect to know more from a weeb?
+My name is Aragami1408. That's all, don't expect to know more about 
 
 ## Sumthing about myself
 - Nationality: :australia: x :vietnam:
-- Location: 異世界
+- Location: ~~異世界~~ Melbourne, Victoria
 - Occupation: Just ~~an average~~ a pathetic high school student, ~~sadly~~ thus I'm not a typical 異世界 protagonist
 - Future Occupation: full-stack developer (🌐 and 📱)
 - Spare-time activites: Speedrunning :medal_sports:, Programming :computer:, Gaming :video_game:, Anime/Manga Crawling :blue_book:.
 
 ## Bragging section
 - Full stack development:
-  - Frontend: Angular, React, Jquery, Semantic UI, Bootstrap
-  - Backend: __Java__(Spring Framework) __Python__(Django), __Golang__(Fiber and Gin)
+  - Frontend: Angular, React, Jquery, Semantic UI, Bootstrap. They are libraries and framework(s) of HTML, CSS, JS
+  - Backend: __Java__☕([Spring Framework](https://spring.io/)), __Python__🐍([Django](https://www.djangoproject.com/)), __Golang__([Fiber](https://gofiber.io/) and [Gin](https://gin-gonic.com/)), __TypeScript__([Nest.js](https://nestjs.com/))
   - Devops: Jenkins, Docker, Kubernetes, Github, Ansible, Postgres, Redis, RethinkDB, .etc
-  - Mobile: Basic Android Development
+  - Mobile: Ultra Basic Android Development
 - Favorite math branches: 
   - [Trigonometry](https://www.khanacademy.org/math/trigonometry)
   - [Single Term Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
