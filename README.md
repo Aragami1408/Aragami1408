@@ -26,6 +26,7 @@ My name is Aragami1408. That's all, don't expect to know more about
   - [HTML & CSS: Design and Build Web Sites](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
   - Suggest me more!
 - Summary Typing Speed via [Typeracer](https://play.typeracer.com/):
+
 <a href="https://data.typeracer.com/pit/profile?user=aragami1408&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=aragami1408" border="0" alt="TypeRacer.com scorecard for user aragami1408"/></a>
 
 ## How can I contact with you
