@@ -11,7 +11,7 @@ My name is Aragami1408. That's all, don't expect to know more about
 ## Bragging section
 - Full stack development:
   - Frontend: Angular, React, Jquery, Semantic UI, Bootstrap. They are libraries and framework(s) of HTML, CSS, JS
-  - Backend: __Java__☕([Spring Framework](https://spring.io/)), __Python__🐍([Django](https://www.djangoproject.com/)), __Golang__([Fiber](https://gofiber.io/) and [Gin](https://gin-gonic.com/)), __TypeScript__([Nest.js](https://nestjs.com/))
+  - Backend: __Java__ ☕([Spring Framework](https://spring.io/)), __Python__ 🐍([Django](https://www.djangoproject.com/)), __Golang__([Fiber](https://gofiber.io/) and [Gin](https://gin-gonic.com/)), __TypeScript__([Nest.js](https://nestjs.com/))
   - Devops: Jenkins, Docker, Kubernetes, Github, Ansible, Postgres, Redis, RethinkDB, .etc
   - Mobile: Ultra Basic Android Development
 - Favorite math branches: 
