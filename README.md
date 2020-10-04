@@ -29,11 +29,12 @@ My name is Aragami1408. That's all, don't expect to know more about
 
 <a href="https://data.typeracer.com/pit/profile?user=aragami1408&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=aragami1408" border="0" alt="TypeRacer.com scorecard for user aragami1408"/></a>
 
-## How can I contact with you
-Several ways you can:
+## Social Media
+Feel free to contact me via:
 - Reddit: [u/Aragami1408](https://www.reddit.com/u/Aragami1408)
 - Twitter: [@14082195tw](https://www.twitter.com/@14082195tw)
 - Github: You are here
 - Facebook: Don't even think about it
-- StackOverflow: [HarryCoder](https://stackoverflow.com/users/7519376/harrycoder) (The old name I used since junior high school, will change it soon)
+- StackOverflow: [Aragami1408](https://stackoverflow.com/users/7519376/aragami1408?tab=profile)
 - Discord: Aragami1408#2195
+- MyAnimeList: [aragami1408](https://myanimelist.net/profile/aragami1408)
