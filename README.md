@@ -1,10 +1,10 @@
 ## Greeting :wave:
-My name is Aragami1408. That's all, don't expect to know more about 
+My name is Aragami1408. That's all, don't expect to know more. 
 
 ## Sumthing about myself
 - Nationality: :australia: x :vietnam:
-- Location: ~~異世界~~ Melbourne, Victoria (GMT+10)
-- Occupation: Just ~~an average~~ a pathetic high school student, ~~sadly~~ thus I'm not a typical 異世界 protagonist
+- Location: Melbourne, Victoria (GMT+10)
+- Occupation: High school student.
 - Future Occupation: full-stack developer (🌐 and 📱)
 - Spare-time activites: Speedrunning :medal_sports:, Programming :computer:, Gaming :video_game:, Anime/Manga Crawling :blue_book:.
 
