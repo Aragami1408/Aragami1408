@@ -6,7 +6,7 @@ My name is Aragami1408. That's all, don't expect to know more.
 - Location: Melbourne, Victoria (GMT+10)
 - Occupation: High school student.
 - Future Occupation: full-stack developer (🌐 and 📱)
-- Spare-time activites: Speedrunning :medal_sports:, Programming :computer:, Gaming :video_game:, Anime/Manga Crawling :blue_book:.
+- Spare-time activites: Speedrunning :medal_sports:, Programming :computer:, Gaming :video_game:, ~~Anime/Manga~~  Visual Novel Crawling :blue_book:.
 
 ## Bragging section
 - Full stack development:
@@ -15,8 +15,7 @@ My name is Aragami1408. That's all, don't expect to know more.
   - Devops: __Jenkins__, __Docker__, __Kubernetes__, __Github__, __Ansible__, __Postgres__, __Redis__, .etc
   - Mobile: Super Duper Basic Android Development
 - Favorite math branches: 
-  - [Trigonometry](https://www.khanacademy.org/math/trigonometry)
-  - [Single Term Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+  - [Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
   - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
   - [Discrete Mathematics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 - Recommended :books: for general programming:
