@@ -34,16 +34,31 @@ Feel free to contact me via:
 ## FAQ
 
 **What does your nickname come from?**
+
 I have two distinguished nickname: `Aragami1408` and `D6E093`
 - Aragami just my favorite song from some rhythm games and 1408 is my birth date (August 14th).
 - D6E093 is just a phrase converted to hexadecimal from `14082195`
 
+
 **When did you start programming?**
+
 Since I was around 12 years old. The first language was Pascal
 
+
 **What IDE/text editor do you use?**
+
 Mostly NeoVim. IDEs kill my ram
 
+
 **Primary programming language?**
+
 Java for web-dev and Python for math and algorithm stuff
 
+
+**Tips for typing fast?**
+
+Based on muscle memory. 
+
+**What type of music do you like most?**
+
+Breakcore and Speedcore.
