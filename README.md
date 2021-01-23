@@ -1,18 +1,15 @@
 ## Greeting :wave:
-My name is Aragami1408. That's all, don't expect to know more. 
+My name is below the avatar. That's all, don't expect to know more. 
 
 ## Sumthing about myself
 - Nationality: :australia: x :vietnam:
 - Location: Melbourne, Victoria (GMT+10)
 - Occupation: High school student.
-- Future Occupation: full-stack developer
-- Spare-time activites: Speedrunning :medal_sports:, Programming :computer:, Gaming :video_game:, ~~Anime/Manga~~  Visual Novel Crawling :blue_book:.
+- Future Occupation: ~~full-stack developer~~ Machine Learning/Deep Learning researcher
+- Spare-time activites: Speedrunning :medal_sports:, Competitive Programming :computer:, Gaming :video_game:, ~~Anime/Manga~~  Visual Novel Crawling :blue_book:.
 
 ## Bragging section
-- Full stack development:
-  - Frontend: Angular, React, Jquery, Semantic UI, Bootstrap.
-  - Backend: __Java__ ☕([Spring Framework](https://spring.io/)), __Python__ 🐍([Flask](https://flask.palletsprojects.com)), __PHP__ 🐘 ([Symfony](https://symfony.com/)) __TypeScript__ ([Nest.js](https://nestjs.com/))
-  - Devops: __Jenkins__, __Docker__, __Kubernetes__, __Github__, __Ansible__, __Postgres__, __Redis__, .etc
+- 
 - Favorite math branches: 
   - [Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
   - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
@@ -55,10 +52,12 @@ Mostly NeoVim. IDEs kill my ram
 Java for web-dev and Python for math and algorithm stuff
 
 
-**Tips for typing fast?**
-
-Based on muscle memory. 
-
 **What type of music do you like most?**
 
 Breakcore and Speedcore.
+
+**Which game(s) you spend playing most?**
+
+- osu!
+- FFXIV
+- PSO2
