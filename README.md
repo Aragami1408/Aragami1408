@@ -9,7 +9,7 @@ My name is below the avatar. That's all, don't expect to know more.
 - Spare-time activites: Speedrunning :medal_sports:, Competitive Programming :computer:, Gaming :video_game:, ~~Anime/Manga~~  Visual Novel Crawling :blue_book:.
 
 ## Bragging section
-- 
+- Programming Language: Java(web-dev), Python(math, data)
 - Favorite math branches: 
   - [Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
   - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
@@ -44,12 +44,7 @@ Since I was around 12 years old. The first language was Pascal
 
 **What IDE/text editor do you use?**
 
-Mostly NeoVim. IDEs kill my ram
-
-
-**Primary programming language?**
-
-Java for web-dev and Python for math and algorithm stuff
+Mostly NeoVim or VSCode. IDEs kill my ram
 
 
 **What type of music do you like most?**
